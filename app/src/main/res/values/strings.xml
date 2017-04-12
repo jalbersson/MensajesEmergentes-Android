@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MensajesEmergentes</string>
+    <string name="mostrar_toast_de_corta_duraci_n">Mostrar Toast de corta duración</string>
+    <string name="mostrar_toast_de_larga_duraci_n">Mostrar Toast de larga duración</string>
+    <string name="mostrar_alerta_con_bot_n_ok">Mostrar alerta con botón OK</string>
+    <string name="mostrar_alerta_con_bot_n_ok_y_cancelar">Mostrar alerta con botón OK y Cancelar</string>
+</resources>
